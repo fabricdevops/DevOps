@@ -10,6 +10,9 @@
 ## 积分应用合约
 ## 合约开发框架
 ## 快速开发与部署
+# 案例
+## 慈善募捐
+https://github.com/cloudframeworks-blockchain/user-guide-fabric-smart-contract
 
 # 参考文献
 1.重构智能合约：非确定性的幽灵<br/>
