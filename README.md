@@ -12,9 +12,9 @@
 ## 快速开发与部署
 
 # 参考文献
-1.重构智能合约：非确定性的幽灵
-http://36kr.com/p/5066761.html
-2.重构智能合约：平行宇宙与无限扩展
-http://36kr.com/p/5067556.html?from=related
+1.重构智能合约：非确定性的幽灵<br/>
+http://36kr.com/p/5066761.html<br/>
+2.重构智能合约：平行宇宙与无限扩展<br/>
+http://36kr.com/p/5067556.html?from=related<br/>
 
 
